@@ -12,9 +12,9 @@
     ],
     "minimum-stability": "dev",
     "require": {},
-    "autoload": {
+    /*"autoload": {
     	"psr-4": {
 		"classes\\": "classes"
 	}
-    }
+    }*/
 }
