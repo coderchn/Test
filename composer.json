@@ -1,0 +1,14 @@
+{
+    "name": "coderchn/test",
+    "description": "project for test",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "coderchn",
+            "email": "jspczj@126.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
